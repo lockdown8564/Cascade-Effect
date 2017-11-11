@@ -1,2 +1,2 @@
-# Cascade-Effect
-FTC Cascade Effect Season
+# Res-Q
+FTC Res-Q Season
